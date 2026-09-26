@@ -1,0 +1,1 @@
+# stata-work-sample
