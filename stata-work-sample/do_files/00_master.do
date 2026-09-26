@@ -1,7 +1,6 @@
 /*************************************************************************************
 MASTER FILE 
 
-Project: Notre Dame Population Analytics Predoctoral Research Associate Stata Exercise  
 Author: Maryana Shnitser 
 Date: 12/30/2025 
 
@@ -11,7 +10,7 @@ Data Downloaded: 12/30/2025
 	- Personal Consumption Expenditures, in billions of dollars (PCE) - summed by quarter
 	
 Directory Structure: 
-	- Shnitser_NDPop
+	- stata-work-sample
 		- raw data
 		- data_clean 
 		- do_files
@@ -25,7 +24,7 @@ clear all
 version 19.5 
 
 // Set overall directory 
-global dir "H:/Shnitser-NDPop"
+global dir "H:/stata-work-sample"
 
 // Define additional directory paths 
 global data_raw "$dir/data_raw"
